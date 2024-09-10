@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "interviewapp"
 include(":app")
+include(":network")
+include(":data")
