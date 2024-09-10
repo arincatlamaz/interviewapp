@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interviewapp.iml" filepath="$PROJECT_DIR$/.idea/modules/interviewapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/interviewapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/interviewapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/interviewapp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/interviewapp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/interviewapp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/interviewapp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/interviewapp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/interviewapp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/interviewapp.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/interviewapp.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/interviewapp.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/interviewapp.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/interviewapp.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/interviewapp.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/interviewapp.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/interviewapp.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/interviewapp.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/interviewapp.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/interviewapp.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/interviewapp.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/interviewapp.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/interviewapp.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/interviewapp.network.iml" filepath="$PROJECT_DIR$/.idea/modules/network/interviewapp.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/interviewapp.network.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/network/interviewapp.network.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/interviewapp.network.main.iml" filepath="$PROJECT_DIR$/.idea/modules/network/interviewapp.network.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/interviewapp.network.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/network/interviewapp.network.unitTest.iml" />
+    </modules>
+  </component>
+</project>
